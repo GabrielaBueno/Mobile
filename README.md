@@ -82,5 +82,3 @@ lib/
 │   └── splash/
 │       └── splash_screen.dart
 
-
->>>>>>> 4ba4d68cf776d304b9f6a06a7849ce3eb5bd4dce
