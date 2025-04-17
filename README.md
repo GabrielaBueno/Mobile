@@ -42,7 +42,7 @@ Desenvolver uma aplicação mobile real com Flutter, passando pelas etapas de de
 - **Home**: exibe categorias e lista de restaurantes
 - **Detalhes do Restaurante**: mostra os pratos disponíveis e permite adicionar à sacola
 - **Checkout**: tela final com a totalização do pedido e a conclusão da compra
-![image](https://github.com/user-attachments/assets/a21e3a03-bb99-44ee-8018-0d04e44c1f8d)
+![image](https://github.com/user-attachments/assets/724a88be-dd69-4bcb-a75a-0f6112baf770)
 
 ---
 
