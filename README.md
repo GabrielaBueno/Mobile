@@ -10,7 +10,8 @@ Durante três aulas, criamos do zero um app completo de delivery com **interface
 
 Desenvolver uma aplicação mobile real com Flutter, passando pelas etapas de design, estrutura de dados, navegação e lógica de pedido. Tudo isso com boas práticas de arquitetura e foco em usabilidade.
 
-![image](https://github.com/user-attachments/assets/fe8e4f82-04ec-4a03-96de-d7155c31e0d6)
+![image](https://github.com/user-attachments/assets/a28e92e4-3b12-43db-9617-520a3bbbedae)
+
 
 
 ---
