@@ -48,7 +48,7 @@ Desenvolver uma aplicação mobile real com Flutter, passando pelas etapas de de
 
 ## ✨ Agradecimentos
 
-Agradecemos imensamente aos **instrutores Richart Lima** e **Giovanna Moeller** pela didática excepcional, dedicação e paciência durante todo o processo de aprendizado. Eles foram essenciais para transformar essa jornada de aprendizado em algo tão enriquecedor e divertido.
+Agradeço aos **instrutores Richart Lima** e **Giovanna Moeller** pela didática excepcional, dedicação e paciência durante todo o processo de aprendizado. Eles foram essenciais para transformar essa jornada de aprendizado em algo tão enriquecedor e divertido.
 
 - **Richart Lima**: Instrutor na Alura, desenvolvedor de jogos educativos e criador de conteúdo com foco em Flutter e Unity.
 - **Giovanna Moeller**: Desenvolvedora de Software premiada pela Apple, com experiência em Swift, Javascript/Typescript e Python.
